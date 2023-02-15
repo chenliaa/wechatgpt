@@ -1,0 +1,7 @@
+chatgpt:
+  token: your chatgpt apiKey
+  wechat: "true"
+  wechat_keyword: 立立
+  #telegram: your telegram token
+  #tgWhitelist: username1,username2
+  #tgKeyword: chatgpt
